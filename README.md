@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
    ```bash
    git clone https://github.com/Ademircordeiro/memoteca.git
-   cd ademir-angular
+   cd memoteca
    ```
 
 2. **Instale as dependências**:
